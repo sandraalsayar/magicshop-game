@@ -1,5 +1,7 @@
 Copyright © 2019 SandraAlsayar
 # magicshop-game
+My presentation of this game is on YouTube! Link: https://youtu.be/fL5SUFJNCHk
+
 Magic Shop is a GBA game I created using the GBA emulator and C language.
 All of the artwork and code is mine. Music is by Smyang Piano
 
@@ -18,5 +20,3 @@ Pretend that you are the character and your are seeking something you can’t fi
 Everything comes with a price of course, but thankfully, this is the kind of a shop where the shopkeeper has the buyer’s best intentions
 in mind, not profit. So by paying him, you are benefiting yourself.
 Now just a quick note, my game remains just a game and only the storyline relates to the psychdramatic technique.
-
-I will upload my recorded presentation on YouTube, so look forward to it!
