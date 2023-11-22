@@ -1,6 +1,5 @@
 Copyright © 2020 SandraAlsayar
 # magicshop-game
-My presentation of this game is on YouTube! Link: https://youtu.be/fL5SUFJNCHk
 
 Magic Shop is a GBA game I created using the GBA emulator and C language.
 All of the artwork and code is mine. Music is by Smyang Piano
